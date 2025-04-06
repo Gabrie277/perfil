@@ -1,10 +1,16 @@
 const Header = () => {
     return (
-      <header className="bg-gray-800 text-white">
-        <div className="container mx-auto flex justify-between items-center p-5">
+      <header className="bg-gray-800 text-white py-3" >
+        <div className="container mx-auto flex justify-between items-center px-0 py--6">
           {/* Logo ou Nome */}
-          <h1 className="text-3xl font-bold">Meu Portfólio</h1>
-  
+          <div className="flex items-center justify-end h-15  mb-1 ">
+            <img
+              className="h-20 w-20 rounded-full object-cover py--20"
+              src="/logo.jpeg"
+              alt="logo"
+            />
+          </div>
+                    
           {/* Botão de alternância para menu responsivo */}
           <button
             className="block md:hidden text-white focus:outline-none"

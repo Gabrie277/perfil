@@ -30,18 +30,20 @@ const Skills = () => {
               <FaCss3Alt className="text-blue-500 inline mr-2" /> CSS3 e frameworks como Tailwind CSS
               </li>
               <li>
-                  <FaJs className="text-yellow-500 inline mr-2" /> JavaScript (incluindo ES6+)
+                <FaJs className="text-yellow-500 inline mr-2" /> JavaScript (incluindo ES6+)
               </li>
               <li>
-              <FaReact className="text-blue-400 inline mr-2" /> React.js e Next.js
+                 <FaReact className="text-blue-400 inline mr-2" /> React.js e Next.js
               </li>
+              
+              <li><FaNode className="text-green-500 inline mr-2" /> Node.js </li>
+             
+              <li><FaDatabase className="text-purple-500 inline mr-2" /> Banco de dados (SQL e MongoDB)</li>
+
+              <li><FaGitAlt className="text-orange-600 inline mr-2" /> Versionamento de código com Git</li>
+
               <li>
-                <FaNode className="text-green-500 inline mr-2" /> Node.js
-              </li>
-              <li>   <FaDatabase className="text-purple-500 inline mr-2" /> Banco de dados (SQL e MongoDB)</li>
-              <li> <FaGitAlt className="text-orange-600 inline mr-2" /> Versionamento de código com Git</li>
-              <li>
-              <FaMobileAlt className="text-blue-500 inline mr-2" /> React Native e Flutter</li>
+                  <FaMobileAlt className="text-blue-500 inline mr-2" /> React Native e Flutter</li>
             </ul>
           </div>
         </div>
