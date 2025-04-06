@@ -8,7 +8,7 @@ const Hero = () => {
     >
       <div className="text-center px-5">
         <img
-          className="h-32 w-32 rounded-full object-cover mx-auto mb-6"
+          className="h-60 w-60 rounded-full object-cover mx-auto mb-6"
           src="/foto.jpeg"
           alt="Gabriel Oliveira"
         />
