@@ -7,14 +7,14 @@ interface Project {
   const Projects = () => {
     const projects: Project[] = [
       {
-        title: "Projeto 1",
-        description: "Um aplicativo web desenvolvido com React e Node.js para gestão de tarefas.",
-        link: "https://github.com/seu-usuario/projeto-1",
+        title: "Projeto  da loja Lu Variedades",
+        description: "Um site web desenvolvido com Node.js para loja virtual.",
+        link: "https://lu-rho.vercel.app/",
       },
       {
-        title: "Projeto 2",
-        description: "Landing page responsiva criada com HTML, CSS e Tailwind CSS.",
-        link: "https://github.com/seu-usuario/projeto-2",
+        title: "Projeto da criação de site da Primeira Primeira Igreja Batista em Cidade Operária",
+        description: "Primeira Primeira Igreja Batista em Cidade Operária.",
+        link: "https://projeto-rho-coral.vercel.app/#projects",
       },
       {
         title: "Projeto 3",
