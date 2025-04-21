@@ -11,7 +11,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <title>Landing Page</title>
+        <title>Programador de Sistema pra Web</title>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </head>
       <body>
